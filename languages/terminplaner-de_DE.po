@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Terminplaner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-19 18:28+0100\n"
+"PO-Revision-Date: 2012-07-19 18:29+0100\n"
+"Last-Translator: Jean-Pierre Kousz <mail@jpk.ch>\n"
+"Language-Team: jpk <mail@jpk.ch>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././tp_user.php:41
+msgid "Required parameters are missing!"
+msgstr "Erforderliche Parameter fehlen!"
+
+#: .././tp_user.php:63
+msgid "No date entry is found!"
+msgstr "Es wurde kein Datumseintrag gefunden!"
+
+#: .././tp_user.php:68
+msgid "There was no name entered!"
+msgstr "Es wurde kein Namen eingegeben!"
+
+#: .././tp_user.php:109
+msgid "Your availability has been added to this event!"
+msgstr "Ihre Verfügbarkeit wurde zu diesem Termin dazugefügt!"
+
+#: .././tp_user.php:109
+msgid "Thank you!"
+msgstr "Besten Dank!"
+
+#: .././tp_user.php:114
+msgid "Hi"
+msgstr "Hallo"
+
+#: .././tp_user.php:114
+msgid "has recorded his availability!"
+msgstr "hat seine Verfügbarkeit erfasst!"
+
+#: .././tp_user.php:114
+msgid "Kind regards"
+msgstr "Freundliche Grüsse"
+
+#: .././tp_user.php:116
+msgid "webserver"
+msgstr "Webserver"
+
+#: .././tp_user.php:117
+msgid "date survey:"
+msgstr "Terminumfrage:"
+
+#: .././tp_admin.php:14
+#: .././tp_admin.php:86
+#: .././functions.php:87
+msgid "Date survey"
+msgstr "Terminumfrage"
+
+#: .././tp_admin.php:21
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben nicht genügend Rechte für den Zugriff auf diese Seite."
+
+#: .././tp_admin.php:86
+msgid "Overview"
+msgstr "Überblick"
+
+#: .././tp_admin.php:86
+msgid "add survey"
+msgstr "Terminumfrage"
+
+#: .././tp_admin.php:90
+msgid "Period of time"
+msgstr "Zeitraum"
+
+#: .././tp_admin.php:91
+msgid "Creator"
+msgstr "Ersteller"
+
+#: .././tp_admin.php:92
+#: .././functions.php:104
+msgid "Event description"
+msgstr "Terminbeschreibung"
+
+#: .././tp_admin.php:112
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: .././tp_admin.php:112
+msgid "Delete"
+msgstr "Löschen"
+
+#: .././tp_admin.php:112
+#: .././functions.php:14
+msgid "datesurvey"
+msgstr "terminumfrage"
+
+#: .././tp_admin.php:124
+msgid "date detail"
+msgstr "Datum detail"
+
+#: .././tp_admin.php:137
+msgid "date modify"
+msgstr "Datum bearbeiten"
+
+#: .././tp_admin.php:214
+#: .././tp_admin.php:294
+msgid "Mandatory informations are missing."
+msgstr "Zwingende Angaben fehlen."
+
+#: .././tp_admin.php:214
+msgid "Back to input!"
+msgstr "Zurück zur Eingabe!"
+
+#: .././tp_admin.php:263
+#: .././tp_admin.php:321
+#: .././functions.php:107
+msgid "Date"
+msgstr "Datum"
+
+#: .././tp_admin.php:294
+msgid "back"
+msgstr "zurück"
+
+#: .././tp_admin.php:294
+msgid "to input!"
+msgstr "Zurück zur Eingabe!"
+
+#: .././tp_admin.php:330
+msgid "Close"
+msgstr "Schliessen"
+
+#: .././tp_admin.php:349
+msgid "detail"
+msgstr "Datum detail"
+
+#: .././tp_admin.php:354
+#: .././tp_admin.php:361
+msgid "delete"
+msgstr "Löschen"
+
+#: .././tp_admin.php:383
+msgid "Event deleted!"
+msgstr "Event gelöscht!"
+
+#: .././tp_admin.php:383
+msgid "continue"
+msgstr "Weiter"
+
+#: .././functions.php:13
+msgid "date survey"
+msgstr "Terminumfrage"
+
+#: .././functions.php:103
+msgid "Event name"
+msgstr "Termin Bezeichnung"
+
+#: .././functions.php:105
+msgid "Creator name"
+msgstr "Name Ersteller"
+
+#: .././functions.php:106
+msgid "Creator e-mail"
+msgstr "E-Mail Ersteller"
+
+#: .././functions.php:108
+msgid "Time"
+msgstr "Zeit"
+
+#: .././functions.php:109
+msgid "add date"
+msgstr "Weiteres Datum"
+
+#: .././functions.php:110
+msgid "Save"
+msgstr "Speichern"
+
+#: .././functions.php:125
+msgid "Wrong key!"
+msgstr "Falscher Schlüssel!"
+
+#: .././functions.php:134
+msgid "Created by:"
+msgstr "Erstellt durch:"
+
+#: .././functions.php:157
+msgid "participant / dates"
+msgstr "Teilnehmer / Daten"
+
+#: .././functions.php:230
+msgid "no"
+msgstr "nein"
+
+#: .././functions.php:230
+msgid "yes"
+msgstr "ja"
+
+#: .././functions.php:230
+msgid "mb"
+msgstr "ev."
+
+#: .././functions.php:238
+msgid "submit"
+msgstr "Absenden"
+
+#, fuzzy
+#~ msgid "survey"
+#~ msgstr "Terminumfrage"
+
+#~ msgid "coordinate"
+#~ msgstr "termine"
